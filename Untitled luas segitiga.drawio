@@ -1,9 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T05:14:23.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.4" etag="x1H3YGK7yIcCNdYv1PVA" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T05:20:58.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="pjHzbmqnDeZ19t0DH36d" version="22.0.4" type="github">
   <diagram name="Page-1" id="pL84VT3qnYwx20y3azj_">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zZDp_bHw6XuAkOnF2BhK-3" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZDp_bHw6XuAkOnF2BhK-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zZDp_bHw6XuAkOnF2BhK-1" value="start" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="370" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zZDp_bHw6XuAkOnF2BhK-14" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZDp_bHw6XuAkOnF2BhK-6" target="zZDp_bHw6XuAkOnF2BhK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZDp_bHw6XuAkOnF2BhK-6" value="Ls = 1/2 x a x t" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zZDp_bHw6XuAkOnF2BhK-13" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZDp_bHw6XuAkOnF2BhK-9" target="zZDp_bHw6XuAkOnF2BhK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZDp_bHw6XuAkOnF2BhK-9" value="&lt;div&gt;Ls&lt;/div&gt;&lt;div&gt;a&lt;/div&gt;&lt;div&gt;t&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zZDp_bHw6XuAkOnF2BhK-16" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZDp_bHw6XuAkOnF2BhK-11" target="zZDp_bHw6XuAkOnF2BhK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZDp_bHw6XuAkOnF2BhK-11" value="Ls" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZDp_bHw6XuAkOnF2BhK-15" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
